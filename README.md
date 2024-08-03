@@ -3,6 +3,8 @@
 
 2022年制作
 
+![Open Cafe - dish   coffee - - xs842174 xsrv jp](https://github.com/user-attachments/assets/450811f9-b551-4539-b8d7-2ca0fb5bf0c7)
+
 ## サイトURL▼
 https://xs842174.xsrv.jp/cafe
 
